@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="systemmanager" />
+        <module name="bodycheck" />
+        <module name="common" />
+        <module name="pulse" />
+        <module name="user" />
+        <module name="facetongue" />
+        <module name="openplatform" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bodycheck" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="facetongue" target="1.8" />
+      <module name="openplatform" target="1.8" />
+      <module name="ovationhealth" target="1.8" />
+      <module name="pulse" target="1.8" />
+      <module name="systemmanager" target="1.8" />
+      <module name="user" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bodycheck" options="" />
+      <module name="common" options="" />
+      <module name="facetongue" options="" />
+      <module name="openplatform" options="" />
+      <module name="pulse" options="" />
+      <module name="systemmanager" options="" />
+      <module name="user" options="" />
+    </option>
+  </component>
+</project>

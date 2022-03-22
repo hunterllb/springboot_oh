@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bodycheck/bodycheck.iml" filepath="$PROJECT_DIR$/bodycheck/bodycheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facetongue/facetongue.iml" filepath="$PROJECT_DIR$/facetongue/facetongue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openplatform/openplatform.iml" filepath="$PROJECT_DIR$/openplatform/openplatform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovationhealth.iml" filepath="$PROJECT_DIR$/ovationhealth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulse/pulse.iml" filepath="$PROJECT_DIR$/pulse/pulse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/systemmanager/systemmanager.iml" filepath="$PROJECT_DIR$/systemmanager/systemmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/user.iml" filepath="$PROJECT_DIR$/user/user.iml" />
+    </modules>
+  </component>
+</project>
